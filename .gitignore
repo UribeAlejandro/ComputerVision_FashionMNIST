@@ -1,0 +1,11 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#OS
+.DS_Store
+
+#Other
+*.pkl
+
+#data
+data/
