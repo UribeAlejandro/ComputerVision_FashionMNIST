@@ -1,10 +1,12 @@
-# MNIST &amp; Fashion MNIST
-The current repository contains a common task within the scope of Computer Vision field, Image Detection, such as:
+# Computer Vision - Fashion MNIST
+The current repository contains a common task within the scope of Computer Vision field: Image Detection. Other similar projects can be found in the following repositories:
 
-- MNIST
-- Fashion MNIST
+- [MNIST](https://github.com/UribeAlejandro/ComputerVision_MNIST)
+- [CIFAR10](https://github.com/UribeAlejandro/ComputerVision_CIFAR10)
+- [Cats vs Dogs](https://github.com/UribeAlejandro/ComputerVision_Cats_vs_Dogs)
+- [Rock Paper & Scissors](https://github.com/UribeAlejandro/ComputerVision_Rock_Paper_or_Scissors)
 
-The MNIST is a useful for those who want to try learning techniques and pattern recognition methods on real-world data.
+The Fashion MNIST is a useful for those who want to try learning techniques and pattern recognition methods on real-world data.
 
 # Acknowledgements
 This hands-on experience with *Computer Vision* common projects was inspired by **Tensorflow in Practice by Laurence Moroney** - *Coursera* and the concepts explained in **Hands-On Machine Learning with Scikit-Learn, Keras &amp; Tensorflow by Aureélien Géron** - *O'Reily*.
@@ -15,19 +17,7 @@ This hands-on experience with *Computer Vision* common projects was inspired by 
 *Sections of code were taken from both sources stated above*.  
 *All the datasets used along this notebook are open sourced*.
 
-# About the Datasets
-## MNIST
-The *MNIST* dataset contains 70,000 grayscale small images (28x28) of labeled handwritten digits, from *0 - 9*. This problem is often called as the "Hello World" of *Machine Learning* because anyone who learns *Machine Learning* tackles this problem at any time.  
-
-Further information about the dataset can be found in the following webpages:  
-[MNIST - Yann LeCun](http://yann.lecun.com/exdb/mnist/)  
-[MNIST 784 - OpenML](https://www.openml.org/d/554)  
-[MNIST - Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/mnist)  
-
-Some examples of the digits are shown below.
-![MNIST](./assets/MNIST.png)
-
-## Fashion MNIST
+# About the Dataset - Fashion MNIST
 The *Fashion-MNIST* dataset contains 70,000 labeled article images. Each image is a 28×28 grayscale image, associated with a label from 10 classes, these classes are listed below.
 
 |Class|Label|
